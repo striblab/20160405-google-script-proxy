@@ -1,0 +1,6 @@
+{
+    "name": "startribune/google-script-proxy",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
